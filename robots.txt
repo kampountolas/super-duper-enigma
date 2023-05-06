@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kampountolas.github.io/sitemap.xml
+Sitemap: https://kampountolas.github.io/super-duper-enigma/sitemap.xml
