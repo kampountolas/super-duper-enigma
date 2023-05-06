@@ -1,13 +1,13 @@
 ---
 layout: about
 title: about
-permalink: /
-subtitle: <a href='http://control.mie.uth.gr'></a>. Address. Contacts. Moto. Etc.
+permalink: 
+subtitle: <a href='http://control.mie.uth.gr'>Automatic Control and Autonomous Systems Labratory</a>
 
 profile:
   align: right
   image: KA.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p><a href='http://control.mie.uth.gr'>Department of Mechanical engineering</a></p>
     <p><a href='http://www.uth.gr'>University of Thessaly</a></p>
@@ -17,7 +17,7 @@ profile:
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am an Associate Professor in the [Department of Mechanical Engineering](http://mie.uth.gr/) at the [University of Thessaly](https://www.uth.gr/), Volos, Greece. Before to joining UTH, I was a Senior Lecturer with the James Watt School of Engineering at the University of Glasgow (UofG, 2013-2019), United Kingdom, and an Associate Director at UofG's Urban Big Data Centre (2019). I was research fellow at [Ecole Polytechnique Fédérale de Lausanne](http://www.epfl.ch) (EPFL, 2012-2013), Switzerland, visiting researcher scholar at the [University of California, Berkeley](http://berkeley.edu), CA (2011), and post-doctoral researcher at the [Centre for Research and Technology Hellas](http://www.certh.gr/root.en.aspx), Greece (2010). I was also short-term visiting professor at Technion–Israel Institute of Technology, Israel (2014), Chalmers University of Technology, Sweden (2016), and the Federal University of Santa Catarina, Florianópolis, Brazil (2016; 2019). 
