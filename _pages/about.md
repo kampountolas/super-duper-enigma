@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://mie.uth.gr/Ampountolas.html'>Department of Mechanical engineering</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='http://control.mie.uth.gr'></a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: KA.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><a href='http://control.mie.uth.gr'>Department of Mechanical engineering</a></p>
+    <p><a href='http://www.uth.gr'>University of Thessaly</a></p>
+    <p>Volos 38334, Greece</p>
+    <p>Tel.: +30 24210 74093</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
