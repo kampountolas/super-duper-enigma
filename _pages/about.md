@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: 
+permalink: /
 subtitle: <a href='http://control.mie.uth.gr'>Automatic Control and Autonomous Systems Labratory</a>
 
 profile:
